@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TelaLogin
+namespace ProgramaTelaLogin
 
 {
     internal class Program
