@@ -3,7 +3,7 @@
 namespace ProgramaTelaLogin
 
 {
-    internal class Program
+    internal class TelaLogin
     {
         static void Main(string[] args)
         {
