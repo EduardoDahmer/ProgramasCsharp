@@ -1,0 +1,7 @@
+C:\Users\eduar\source\repos\ProgramasC\TelaLogin\bin\Debug\ProgramasC.exe.config
+C:\Users\eduar\source\repos\ProgramasC\TelaLogin\bin\Debug\ProgramasC.exe
+C:\Users\eduar\source\repos\ProgramasC\TelaLogin\bin\Debug\ProgramasC.pdb
+C:\Users\eduar\source\repos\ProgramasC\TelaLogin\obj\Debug\ProgramasC.csproj.SuggestedBindingRedirects.cache
+C:\Users\eduar\source\repos\ProgramasC\TelaLogin\obj\Debug\ProgramasC.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\ProgramasC\TelaLogin\obj\Debug\ProgramasC.exe
+C:\Users\eduar\source\repos\ProgramasC\TelaLogin\obj\Debug\ProgramasC.pdb
