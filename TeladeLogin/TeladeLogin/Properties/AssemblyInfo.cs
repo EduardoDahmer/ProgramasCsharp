@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // As informações gerais sobre um assembly são controladas por
 // conjunto de atributos. Altere estes valores de atributo para modificar as informações
 // associadas a um assembly.
-[assembly: AssemblyTitle("ProgramasC")]
+[assembly: AssemblyTitle("TeladeLogin")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ProgramasC")]
+[assembly: AssemblyProduct("TeladeLogin")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // O GUID a seguir será destinado à ID de typelib se este projeto for exposto para COM
-[assembly: Guid("53aa8a86-9666-4c4e-8edf-0f2cecf9811b")]
+[assembly: Guid("30a6d05d-7f9d-4d8b-abad-1ba4606adb2b")]
 
 // As informações da versão de um assembly consistem nos quatro valores a seguir:
 //

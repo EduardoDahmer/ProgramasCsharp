@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{53AA8A86-9666-4C4E-8EDF-0F2CECF9811B}</ProjectGuid>
+    <ProjectGuid>{30A6D05D-7F9D-4D8B-ABAD-1BA4606ADB2B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ProgramasC</RootNamespace>
-    <AssemblyName>ProgramasC</AssemblyName>
+    <RootNamespace>TeladeLogin</RootNamespace>
+    <AssemblyName>TeladeLogin</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
