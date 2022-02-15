@@ -6,3 +6,11 @@ C:\Users\eduar\source\repos\PrimeiraCalculadora\PrimeiraCalculadora\obj\Debug\Pr
 C:\Users\eduar\source\repos\PrimeiraCalculadora\PrimeiraCalculadora\obj\Debug\PrimeiraCalculadora.csproj.CoreCompileInputs.cache
 C:\Users\eduar\source\repos\PrimeiraCalculadora\PrimeiraCalculadora\obj\Debug\PrimeiraCalculadora.exe
 C:\Users\eduar\source\repos\PrimeiraCalculadora\PrimeiraCalculadora\obj\Debug\PrimeiraCalculadora.pdb
+C:\Users\eduar\source\repos\ProgramasC\PrimeiraCalculadora\obj\Debug\PrimeiraCalculadora.csproj.AssemblyReference.cache
+C:\Users\eduar\source\repos\ProgramasC\PrimeiraCalculadora\obj\Debug\PrimeiraCalculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\eduar\source\repos\ProgramasC\PrimeiraCalculadora\obj\Debug\PrimeiraCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\ProgramasC\PrimeiraCalculadora\obj\Debug\PrimeiraCalculadora.exe
+C:\Users\eduar\source\repos\ProgramasC\PrimeiraCalculadora\obj\Debug\PrimeiraCalculadora.pdb
+C:\Users\eduar\source\repos\ProgramasC\PrimeiraCalculadora\bin\Debug\PrimeiraCalculadora.exe.config
+C:\Users\eduar\source\repos\ProgramasC\PrimeiraCalculadora\bin\Debug\PrimeiraCalculadora.exe
+C:\Users\eduar\source\repos\ProgramasC\PrimeiraCalculadora\bin\Debug\PrimeiraCalculadora.pdb

@@ -23,7 +23,7 @@ namespace Teladelogin
             }
             if (UsuarioInserido == UsuarioSistema && SenhaInserida == Senha)
             {
-                Console.WriteLine("Bem-Vindo, " + UsuarioSistema);
+                Console.WriteLine($"Bem-Vindo, {UsuarioSistema} ");
                 Console.WriteLine();
                 Console.WriteLine("Por favor, diga-nos sua idade: ");
                 Console.WriteLine();
@@ -33,7 +33,7 @@ namespace Teladelogin
                 if (idade <= 12)
                 {
                     Console.ForegroundColor = ConsoleColor.Green;
-                    Console.WriteLine("Acesso Liberado ao sistema KIDS");
+                    Console.WriteLine("Acesso Liberado apenas ao sistema KIDS");
                 }
                 else
                 {

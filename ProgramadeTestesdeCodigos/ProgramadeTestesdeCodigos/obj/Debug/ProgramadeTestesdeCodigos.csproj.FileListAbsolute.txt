@@ -1,0 +1,8 @@
+C:\Users\eduar\source\repos\ProgramasC\ProgramadeTestesdeCodigos\ProgramadeTestesdeCodigos\bin\Debug\ProgramadeTestesdeCodigos.exe.config
+C:\Users\eduar\source\repos\ProgramasC\ProgramadeTestesdeCodigos\ProgramadeTestesdeCodigos\bin\Debug\ProgramadeTestesdeCodigos.exe
+C:\Users\eduar\source\repos\ProgramasC\ProgramadeTestesdeCodigos\ProgramadeTestesdeCodigos\bin\Debug\ProgramadeTestesdeCodigos.pdb
+C:\Users\eduar\source\repos\ProgramasC\ProgramadeTestesdeCodigos\ProgramadeTestesdeCodigos\obj\Debug\ProgramadeTestesdeCodigos.csproj.AssemblyReference.cache
+C:\Users\eduar\source\repos\ProgramasC\ProgramadeTestesdeCodigos\ProgramadeTestesdeCodigos\obj\Debug\ProgramadeTestesdeCodigos.csproj.SuggestedBindingRedirects.cache
+C:\Users\eduar\source\repos\ProgramasC\ProgramadeTestesdeCodigos\ProgramadeTestesdeCodigos\obj\Debug\ProgramadeTestesdeCodigos.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\ProgramasC\ProgramadeTestesdeCodigos\ProgramadeTestesdeCodigos\obj\Debug\ProgramadeTestesdeCodigos.exe
+C:\Users\eduar\source\repos\ProgramasC\ProgramadeTestesdeCodigos\ProgramadeTestesdeCodigos\obj\Debug\ProgramadeTestesdeCodigos.pdb
